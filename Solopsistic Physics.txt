@@ -119,13 +119,15 @@ It should be noted that such extreme symmetry-breaking would be practically indi
 
 ## 4. Consciousness as a Fundamental Field or Dimension
 
-To truly integrate the observer’s mind into physics, one might introduce a **new fundamental quantity**: call it \$\mathcal{C}\$, the consciousness field, or perhaps treat consciousness as an additional dimension in spacetime. The idea of consciousness as fundamental has parallels with **panpsychism** (the philosophy that consciousness is an intrinsic aspect of all matter) and with certain interpretations of quantum mechanics or information theory. Here, however, we are closer to **idealism**: only one locus of consciousness exists fundamentally, but we want to weave that into the physical theory’s structure.
+To truly integrate the observer’s mind into physics, **we introduce** a **new fundamental quantity**, \$\mathcal{C}\$, the consciousness field. Instead of relegating it to a hypothetical extra dimension, we treat \$\mathcal{C}\$ as a field that actively shapes spacetime. This echoes themes in **panpsychism** and information-theoretic interpretations, but our stance is firmly **idealist**: one locus of consciousness drives the physical theory’s structure.
 
 ### 4.1 Postulating a Consciousness Field \$\Psi(x)\$
 
-Consider a field \$\Psi(x)\$ defined on spacetime that represents “conscious awareness density.” We could say that for the true observer’s brain (whatever neurons or particles compose it), \$\Psi(x)\$ takes a large value (maybe normalized to 1), and elsewhere it is near zero. This \$\Psi(x)\$ could act somewhat like the stress-energy tensor in Einstein’s equations or like a source term in other field equations, signifying that it has dynamical effects. For example, one might add a term to the action of the Standard Model that looks like:
-$S_{\text{mind-matter}} = g \int d^4x \, \Psi(x) \, \mathcal{O}(x),$
-where \$\mathcal{O}(x)\$ is some operator that affects particles (perhaps something that triggers wavefunction collapse or fixes outcomes of measurements), and \$g\$ is a coupling constant. This term ensures that only where \$\Psi\$ is non-negligible does the usual stochastic or quantum behavior of matter “collapse” into a definite event (an observed event). Outside of those regions, perhaps events remain in quantum superposition indefinitely (since no conscious observation happens). This would be a concrete realization of a **Wigner’s friend** scenario globally – only Wigner (the solipsist) actually collapses the wavefunction.
+Consider a field \$\Psi(x)\$ defined on spacetime that represents “conscious awareness density.” For the true observer’s brain \$\Psi(x)\$ takes a large value (normalized to 1) and elsewhere is near zero. We couple this field directly to the metric so that consciousness influences geometry:
+$G_{\mu\nu} = 8\pi G\, T_{\mu\nu}^{(\text{matter})} + \Lambda g_{\mu\nu} + \kappa\, f(\Psi) U_\mu U_\nu,$
+where \$G_{\mu\nu}\$ is the Einstein tensor and \$U_\mu\$ is the observer’s four-velocity. If \$f(\Psi)\$ is sharply peaked on the worldline, this coupling yields a potential well centered on the observer. While speculative, it ensures the metric singles out the conscious locus.
+
+We examined other options. Introducing an additional action term \($S_{\text{mind-matter}}\$) or equating \$\Psi\$ with Integrated Information Theory’s \$\Phi\$ muddies the direct geometric role of awareness and relies on assumptions we are unwilling to take. The metric coupling keeps the proposal succinct and underscores that consciousness literally shapes spacetime.
 
 Alternatively, \$\Psi(x)\$ could couple to the metric, as suggested earlier, to create an observer-centric geometry:
 $G_{\mu\nu} = 8\pi G\, T_{\mu\nu}^{(\text{matter})} + \Lambda g_{\mu\nu} + \kappa\, f(\Psi) U_\mu U_\nu,$

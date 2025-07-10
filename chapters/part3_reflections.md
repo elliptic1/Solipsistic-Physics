@@ -19,3 +19,4 @@ The ultimate test of such a framework, were it ever to be more than a thought ex
 * Maldacena, J., on AdS/CFT duality linking bulk gravity and boundary theory.
 * Steinhardt, P. & Turok, N., on the ekpyrotic brane collision model of the Bang.
 
+Perhaps the true value of this thought experiment is not in proving solipsism but in reminding us how entwined observer and universe already are.

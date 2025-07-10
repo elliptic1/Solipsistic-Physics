@@ -1,5 +1,6 @@
 ## 7. Evaluation: Coherence, Predictive Power, and Philosophical Implications
 
+How solid is this universe-of-one? In this chapter we test its coherence and ask whether it predicts anything new. We also face the charge that solipsism is unfalsifiable.
 At this point, we have sketched an exotic framework: one where the single observer’s mind is effectively the “theory of everything.” It’s a fusion of solipsist philosophy with the language of physics. But is this a *scientific* theory or just a metaphysical narrative dressed in equations? We should examine its internal consistency, its relation to known physics, and whether it offers anything *predictive or falsifiable*.
 
 ### 7.1 Internal Consistency and Agreement with Known Physics

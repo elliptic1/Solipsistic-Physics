@@ -1,6 +1,7 @@
 ## 9. Black Holes, Horizons, and Information in a Mind-Centered Physics
 
 Black holes are often called the **most extreme test** of our physical theories – regions where gravity, quantum mechanics, and information theory intersect. In a solipsistic M-theory, black holes must be reinterpreted as *phenomena existing within the single observer’s experiential world*. This section will develop a **solipsistic model of black holes** that incorporates horizon complementarity, the information paradox, Hawking radiation, and holography, all while treating the black hole’s interior and exterior as mind-defined regions. We will see that many paradoxes of black hole physics soften or vanish when we remember that only one observer’s perspective is physically realized. Formally, we extend the “consciousness metric” or observer-field introduced earlier to black hole spacetimes, defining observer-dependent horizon entropy and exploring how the **holographic principle** might map to a correspondence between the observer’s mind and the bulk world.
+An **event horizon** marks the point of no return. **Hawking radiation** is a slow leakage of particles that can cause a black hole to evaporate over time.
 
 ### 9.1 Horizons and Complementarity: Only One Perspective Exists at a Time
 

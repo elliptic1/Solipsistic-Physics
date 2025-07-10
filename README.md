@@ -31,6 +31,14 @@ pandoc chapters/title.md \
        -o solipsistic-physics.pdf
 ```
 
+For convenience, a helper script `build_pdf.zsh` is provided. Running it will
+produce the same `solipsistic-physics.pdf` by concatenating all chapters and
+notes. The script requires `zsh` and `pandoc` to be installed:
+
+```bash
+./build_pdf.zsh
+```
+
 ## Contributing
 
 This project is experimental and remains a work in progress.  If you wish to

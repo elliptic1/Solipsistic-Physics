@@ -14,13 +14,18 @@ This page distills the key equations from **Solipsistic Physics: A Universe-of-O
 - Information-based variant using accessible information $I(r)$:
   $$ds^2 = -c^2 dt^2 + \frac{1}{I(r)}dr^2 + \ldots$$
 
+### Observer Field
+A schematic field $O(x)$ equals $1$ on the observer worldline and tends to $0$ far away. It can enter Einstein's equations as a source selecting the preferred frame.
+
 ## Consciousness Field
-- Introduce a scalar field $\Psi(x)$ encoding awareness.
+- Scalar field $\Psi(x)$ encodes awareness.
 - Modified Einstein equations:
   $$G_{\mu\nu} = 8\pi G\,T_{\mu\nu}^{(\text{matter})} + \Lambda g_{\mu\nu} + \kappa\,f(\Psi)\,U_{\mu}U_{\nu}.$$
 - Optional interaction term coupling mind and matter:
   $$S_{\text{mind--matter}} = g \int d^4x\,\Psi(x)\,\mathcal{O}(x).$$
 - Dream or imagination states modeled by varying the coupling $g$ between $\Psi$ and ordinary fields.
+- Example Lagrangian for $\Psi$:
+  $$\mathcal{L}_{\Psi}= -\tfrac12 (\nabla\Psi)^2 - V(\Psi),\qquad V(\Psi)=m^2(\Psi-1)^2.$$
 
 ## Cosmology
 - FLRW-like metric centered on the observer:

@@ -17,6 +17,8 @@ that the chapters can be easily converted to PDF or other publishing formats.
   formulated for a universe consisting of a single observer.
 - `Solopsistic Cosmology.txt` – notes on cosmological implications in this
   framework.
+- `math_cheatsheet.md` – quick reference of key equations.
+- `math_review.md` – notes on where the draft's mathematics needs more precision.
 
 The chapters can be converted to a single document using a tool such as
 [pandoc](https://pandoc.org/):

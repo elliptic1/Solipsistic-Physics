@@ -1,9 +1,10 @@
 # Solipsistic Physics
 
 This repository collects draft material for a book tentatively titled
-**"Solipsistic Physics: A Universe-of-One"**.  The work explores how M-theory
-and modern ideas in quantum gravity might be reinterpreted through the lens of
-solipsism&mdash;the view that only a single observing mind is truly real.
+**"Solipsistic Physics: A Universe-of-One"** by **Todd B. Smith, PhD**.
+The work explores how M-theory and modern ideas in quantum gravity might be
+reinterpreted through the lens of solipsism&mdash;the view that only a single
+observing mind is truly real.
 
 All text is written in Markdown with LaTeX used for mathematical notation so
 that the chapters can be easily converted to PDF or other publishing formats.
@@ -33,12 +34,16 @@ pandoc chapters/title.md \
        -o solipsistic-physics.pdf
 ```
 
-For convenience, a helper script `build_pdf.zsh` is provided. Running it will
-produce the same `solipsistic-physics.pdf` by concatenating all chapters and
-notes. The script requires `zsh` and `pandoc` to be installed:
+For convenience, a helper script `build_book.zsh` is provided. Running it will
+produce a single file (PDF by default) by concatenating all chapters and notes.
+You may specify a different output filename to create an EPUB for e-readers such
+as Kindle. The script requires `zsh` and `pandoc` to be installed:
 
 ```bash
-./build_pdf.zsh
+# PDF (default)
+./build_book.zsh
+# or generate an EPUB
+./build_book.zsh solipsistic-physics.epub
 ```
 
 ## Contributing

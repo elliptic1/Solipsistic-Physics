@@ -32,3 +32,23 @@ In this sense, horizons mark the edge of what can ever matter in a universe-of-o
 
 Black holes, then, become dramatic yet surprisingly simple players in this framework.
 They serve as reminders that physics may only need to be self-consistent for a single point of view.
+
+### 5.4 Firewalls and Complementarity
+The firewall paradox imagines a searing wall of radiation greeting any infalling observer.
+It arises from trying to keep distant observers and infalling ones in perfect quantum agreement.
+In a universe-of-one, there is no need for such reconciliation.
+Complementarity becomes literal: the story outside and the story inside need not match because only one can ever be told.
+For the solipsistic observer, crossing the horizon can be smooth without violating any external bookkeeping.
+
+### 5.5 Personal Journeys Beyond the Horizon
+What does the lone observer actually experience if they plunge into a black hole?
+The geometry beyond the horizon could be just another chapter in their personal narrative.
+Time might appear to end at the singularity or the spacetime might tunnel into a new region.
+Either way, no second witness exists to dispute the account or demand unitarity.
+The interior becomes a private appendix to the universe, sealed off from external scrutiny.
+
+### 5.6 Horizons in Everyday Life
+Even without astrophysical black holes, we encounter smaller horizons all the time.
+Our sight, memory, and attention create personal boundaries beyond which events fade away.
+Thinking solipsistically, the cosmic horizon is simply the most extreme version of this everyday limit.
+Black holes merely dramatize the fact that reality is always trimmed to what one observer can ever hope to see.

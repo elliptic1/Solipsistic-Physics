@@ -6,6 +6,9 @@ Look up at the stars—**in this cosmos every galaxy shines for your eyes alone.
 
 This chapter first views inflation through one set of eyes, then describes the observer’s private cosmic horizon, and finally shows how time’s arrow writes a personal history. Throughout we keep mathematics light and focus on intuitive pictures.
 
+### Everyday Example
+Imagine placing raisins in a loaf of rising bread. As the dough expands in the oven, every raisin sees the others drift away, yet the loaf grows for the baker alone. Our cosmology works similarly: distant galaxies spread out as if the universe is baking just for one observer.
+
 ### 8.1 Inflation Through One Set of Eyes
 
 Cosmological **inflation**—a brief burst of expansion right after the Big Bang—was invented to explain why the universe looks so uniform. Without it, distant regions of the CMB would never have shared information. Inflation smooths space the way a baker kneads dough before it rises. In a solipsistic picture these special initial conditions simply reflect the mind choosing the only recipe that leads to its own existence. What appear as improbable fine tunings become necessities.

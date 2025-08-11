@@ -2,6 +2,9 @@
 
 Modern physical theories are usually *democratic* about observers: no preferred inertial frame in relativity and no fundamental observer in quantum mechanics. Every observation is just a physical interaction. To imagine a universe where only one mind truly exists, we must **break these symmetries** deliberately, rigging the cosmic rules so a single viewpoint becomes the only one that matters.
 
+### Everyday Example
+Playing a story-driven video game reminds us of this idea. Your character makes real choices, while every other figure follows a script and exists only to react to you. In this chapter, the universe is that game and only the main player is truly alive.
+
 ### 3.1 Picking the One Universe
 
 String theory and M-theory offer a vast landscape of possible vacua—different ways to curl up extra dimensions and assign values to the constants of nature. Usually the anthropic principle says that out of perhaps \$10^{500}\$ choices we happen to live in one that supports life. The solipsistic twist is to imagine that only a single choice yields any consciousness at all. Out of a multiversal lottery with astronomically many tickets, just one ticket produces a mind—the vacuum we inhabit.

@@ -3,6 +3,10 @@
 Imagine the cosmos arranged so that **you** truly sit at its center. What kind of geometry could such a personal universe require? In Einstein's relativity, the metric $g_{\mu\nu}(x)$ describes distances, durations, and light-cones for any observer. Ordinarily no location is special; the equations treat all worldlines equally.
 
 To explore solipsism, we instead look for a metric where a single worldline—yours—anchors space and time.
+
+### Everyday Example
+Using a navigation app, the map always keeps your dot in the middle and pivots as you turn. Streets and landmarks seem to rotate around you. A solipsistic spacetime would treat the entire universe that way—everything laid out relative to your path.
+
 ### 2.1 Building Space and Time Around You
 
 Before getting technical, let's sketch what this geometry must achieve.

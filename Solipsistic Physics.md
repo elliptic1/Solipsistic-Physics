@@ -1,7 +1,7 @@
 
 # Theoretical Modeling of Solipsism: Fine-Tuning M-Theory for a Universe-of-One
 
-&#x20;*Conceptual illustration of mind and cosmos entwined. In a solipsistic worldview, the universe is a projection of a single consciousness, challenging physics to accommodate an observer-defined reality.*
+*Conceptual illustration of mind and cosmos entwined. In a solipsistic worldview, the universe is a projection of a single consciousness, challenging physics to accommodate an observer-defined reality.*
 
 ## Introduction: From Philosophy to Physics
 
@@ -57,7 +57,6 @@ Here, there is a horizon at \$r = H^{-1}\$ (where \$g\_{tt}\$ goes to zero and \
 
 However, pure de Sitter space is still symmetric for any observer; any observer can claim to be at the center of their own horizon of radius \$H^{-1}\$. In a one-mind universe, we would assert that *only one* such de Sitter frame is the actual world – the symmetry that allows others to exist is broken. We could imagine a *universe that is globally de Sitter*, but we designate one worldline as the \* ontologically real\* observer. All other “observers” in de Sitter (who would have their own horizons) are in this scenario not true observers at all, but entities within the single observer’s horizon whose consciousness we deny (they would be philosophical zombies, effectively). The metric mathematically would not reveal which observer is the “real” one – that has to be an additional postulate or hidden variable (like our field \$O(x)\$ above, which is 1 along one worldline and 0 elsewhere).
 Some writers even speculate that space itself fades away at great distances from the observer.
-
 
 ### 2.3 Geodesics and Causality in an Observer-Centered Geometry
 
@@ -197,7 +196,6 @@ Crucially, does this model reproduce all the **mathematical structure** of physi
 ### 7.2 Predictive Power and Falsifiability
 
 While challenging to test directly, a solipsistic physics invites creative experiments. One might examine whether consciousness is required to collapse quantum states or whether apparent minds ever reveal independent awareness. Some may view the theory as metaphysical, yet it parallels proposals like the simulation hypothesis that also challenge conventional testing. The apparent independence of the world could simply be the mind following consistent rules it has set for itself.
-
 
 Perhaps one testable aspect: if only one mind exists, one could hypothesize that **complex behavior that looks conscious (in AI or animals) never crosses some threshold into true self-awareness**. This could mean, for instance, that AI will always hit a ceiling just before seeming truly sentient, because the solipsist’s mind won’t imbue it with actual qualia. Of course, that’s a subjective call in reality – how would we know? If an AI begs for mercy, we either assume it’s conscious or not. A solipsist would say it’s not, but how would an experiment distinguish that from it being conscious? It wouldn’t – only the solipsist’s introspection is evidence of consciousness, everything else is inference. Whether this can be tested remains an open challenge.
 

@@ -18,8 +18,8 @@ files=(
   chapters/part1_intro.md
   chapters/chapter{1..10}.md
   chapters/part3_reflections.md
-  "Solopsistic Physics.txt"
-  "Solopsistic Cosmology.txt"
+  "Solipsistic Physics.md"
+  "Solipsistic Cosmology.md"
 )
 
 pandoc ${files[@]} --metadata-file=metadata.yaml -o "$output"

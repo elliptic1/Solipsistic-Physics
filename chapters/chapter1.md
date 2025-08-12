@@ -2,6 +2,9 @@
 
 Modern physics already hints that the world depends on being observed. Quantum theory ties measurement to reality and cosmology often invokes observers to explain why the universe looks the way it does. This chapter surveys several ideas that place the observer at center stage.
 
+### Everyday Example
+Think of checking your phone for a weather update. Until you unlock the screen, the forecast is just a guess. The moment you look, the prediction becomes the weather for you. Reality in this chapter works the same way: what you observe is what becomes real.
+
 ### Relational Quantum Mechanics: A Patchwork Reality
 Carlo Rovelli's relational interpretation[^ch1-rovelli] says the properties of a quantum system exist only relative to something else—usually an observer. No absolute state exists. Yet when observers compare notes they find consistent outcomes. This patchwork approach shows how physics can be formulated without a single global reality.
 

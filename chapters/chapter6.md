@@ -2,6 +2,9 @@
 
 What happens inside the mind when the outside world fades? In this framework there is no strict boundary between mental and physical events. Dreams, imagination, and memory become parts of the same physics.
 
+### Everyday Example
+Consider waking from a dream in which you were late for school. The moment your eyes open, classrooms and teachers vanish, yet the emotional trace lingers. This familiar experience shows how entire worlds can exist only inside one mind and dissolve when attention shifts.
+
 ### Dreams as Alternate Realities
 During sleep the coupling between the consciousness field $\Psi(x)$ and the external world weakens[^ch6-hobson]. The mind can run a looser simulation where ordinary laws need not apply. When the observer awakens, the coupling is restored and the dream dissolves like a pocket universe.
 

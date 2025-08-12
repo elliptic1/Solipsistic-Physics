@@ -3,7 +3,7 @@
 This repository collects draft material for a book tentatively titled
 **"Solipsistic Physics: A Universe-of-One"** by **Todd B. Smith, PhD**.
 The work explores how M-theory and modern ideas in quantum gravity might be
-reinterpreted through the lens of solipsism&mdash;the view that only a single
+reinterpreted through the lens of solipsism—the view that only a single
 observing mind is truly real.
 
 All text is written in Markdown with LaTeX used for mathematical notation so

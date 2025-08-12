@@ -11,7 +11,7 @@ Imagine placing raisins in a loaf of rising bread. As the dough expands in the o
 
 ### 8.1 Inflation Through One Set of Eyes
 
-Cosmological **inflation**—a brief burst of expansion right after the Big Bang—was invented to explain why the universe looks so uniform. Without it, distant regions of the CMB would never have shared information. Inflation smooths space the way a baker kneads dough before it rises. In a solipsistic picture these special initial conditions simply reflect the mind choosing the only recipe that leads to its own existence. What appear as improbable fine tunings become necessities.
+Cosmological **inflation[^ch8-linde]**—a brief burst of expansion right after the Big Bang—was invented to explain why the universe looks so uniform. Without it, distant regions of the CMB would never have shared information. Inflation smooths space the way a baker kneads dough before it rises. In a solipsistic picture these special initial conditions simply reflect the mind choosing the only recipe that leads to its own existence. What appear as improbable fine tunings become necessities.
 
 Mathematically we can still summarize the expansion with the familiar Friedmann equation
 
@@ -42,3 +42,4 @@ Finally, **dark energy** and the accelerating expansion can be given an anthropi
 ### 8.3 Time’s Arrow in a Universe-of-One
 
 A solipsistic cosmology must explain why time appears to flow only forward. In ordinary physics this is traced to a low-entropy Big Bang. Here that tidy starting point is simply the first instant of awareness, a blank slate that gradually fills with memories. As experiences accumulate, entropy rises and cosmic structure unfolds. Our sense of remembering the past but not the future thus matches the thermodynamic arrow because both arise from the mind’s growing record of events.
+[^ch8-linde]: See [Linde 1982](references.md#linde1982).

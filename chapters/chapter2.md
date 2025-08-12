@@ -1,6 +1,6 @@
 ## 2. Center of the Universe—You: Crafting a Solipsistic Spacetime
 
-Imagine the cosmos arranged so that **you** truly sit at its center. What kind of geometry could such a personal universe require? In Einstein's relativity, the metric $g_{\mu\nu}(x)$ describes distances, durations, and light-cones for any observer. Ordinarily no location is special; the equations treat all worldlines equally.
+Imagine the cosmos arranged so that **you** truly sit at its center. What kind of geometry could such a personal universe require? In Einstein's relativity[^ch2-einstein], the metric $g_{\mu\nu}(x)$ describes distances, durations, and light-cones for any observer. Ordinarily no location is special; the equations treat all worldlines equally.
 
 To explore solipsism, we instead look for a metric where a single worldline—yours—anchors space and time.
 
@@ -57,3 +57,5 @@ Perhaps a softer condition: the *Global structure* of spacetime might be such th
 Mathematically, an **observer-centric metric** could be engineered to encode the notion of “here and now” vs “far and hypothetical.” But it’s clear that simply writing a different metric is not enough – one also has to embed this idea into the *dynamical laws* (e.g. how fields behave on this spacetime, how the metric is generated from sources, etc.). That leads us to consider what new fields or symmetry-breaking terms might be needed to single out a lone observer in the laws of physics.
 
 These ideas prepare us for the radical fine-tuning explored in the next chapter.
+
+[^ch2-einstein]: See [Einstein 1915](references.md#einstein1915).

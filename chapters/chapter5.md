@@ -10,6 +10,9 @@ There is no second set of observations to reconcile.
 From the single viewpoint, a black hole is like a theater with a single seat: the story always remains self‑consistent for that one audience member.
 No one else is around to witness any contradictions.
 
+### Everyday Example
+Dropping a note into a campfire when you are alone mirrors this single-perspective picture. Once the paper burns, the message is gone and there is no second witness to argue about what it said. The story stays tidy because only you saw it.
+
 ### 5.1 A Quick Tour of the Paradoxes
 Ordinarily we puzzle over how information escapes or whether it is destroyed.
 The **Bekenstein bound** tells us a black hole’s entropy is huge but finite, proportional to its horizon area.

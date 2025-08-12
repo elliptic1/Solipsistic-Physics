@@ -4,6 +4,9 @@ Could awareness itself be woven into the fabric of the cosmos? This chapter expl
 
 To truly integrate the observer's mind into physics, we propose a field $\mathcal{C}$ that warps spacetime much like mass does. This nod to panpsychism pushes further: only one concentration of consciousness exists, guiding the geometry.
 
+### Everyday Example
+Picture walking through a dark house with a flashlight. Wherever the beam falls, objects spring into clear focus, while unlit rooms stay vague. The proposed consciousness field acts like that beam, lighting up only the parts of the cosmos tied to awareness.
+
 ### 4.1 Postulating a Consciousness Field \$\Psi(x)\$
 Consider a field $Psi(x)$ defined on spacetime that represents "conscious awareness density." For the real observer’s brain $Psi(x)$ is near one and elsewhere near zero. In principle this field could couple weakly to gravity, giving the observer a special place.
 We evaluated two alternatives. Adding an extra action term \($S_{\text{mind-matter}} = g \int d^4x\, \Psi(x) \, \mathcal{O}(x)\) blurs the geometric role of awareness, and identifying \$\Psi\$ with Integrated Information Theory’s \$\Phi\$ requires heavy theoretical machinery. By focusing on metric coupling, we keep the theory lean and emphasize that consciousness literally shapes spacetime.

@@ -17,6 +17,12 @@ John Wheeler[^ch1-wheeler] suggested that no phenomenon is real until it is obse
 ### Horizon Complementarity
 Black hole complementarity[^ch1-susskind] reveals that no single observer can see both sides of an event horizon. Physics may need to restrict itself to one local viewpoint. A solipsistic interpretation goes further: perhaps only one viewpoint ever truly occurs.
 
+### Many-Worlds and Many-Minds
+Everett's many-worlds picture imagines the universe splitting into branches for every quantum event. Some philosophers extend this to "many minds." A solipsist can borrow the imagery but insists only one branch—and one mind—is ever actually experienced. All other possibilities are mere might-have-beens.
+
+### Holographic Principle and AdS/CFT
+The holographic principle says a region of space can be described by information on its boundary. In a solipsistic reading, that boundary could be the edge of consciousness itself. What we perceive as a three‑dimensional world may be a projection of information held on the "screen" of the observer's mind.
+
 These frameworks stop short of claiming other observers are unreal, but they hint at how a fully solipsistic physics might operate. In the next chapter we attempt to build such a model explicitly.
 
 [^ch1-rovelli]: See [Rovelli 1996](references.md#rovelli1996).

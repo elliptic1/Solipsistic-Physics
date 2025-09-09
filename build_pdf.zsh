@@ -12,15 +12,15 @@ fi
 
 output=${1:-solipsistic-physics.pdf}
 
+chapter_files=($(find chapters -maxdepth 1 -name 'chapter*.md' | sort -V))
+
 files=(
   chapters/title.md
   chapters/preface.md
   chapters/overview.md
   chapters/part1_intro.md
-  chapters/chapter{1..10}.md
+  ${chapter_files[@]}
   chapters/part3_reflections.md
-  "Solipsistic Physics.md"
-  "Solipsistic Cosmology.md"
 )
 
 pandoc ${files[@]} -o "$output"

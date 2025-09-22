@@ -13,11 +13,7 @@ that the chapters can be easily converted to PDF or other publishing formats.
 
 - `chapters/` – individual Markdown files that form the structure of the book.
   These include the title page, preface, introductory material, ten core
-  chapters and closing reflections.
-- `Solipsistic Physics.md` – a longer draft discussing how physics could be
-  formulated for a universe consisting of a single observer.
-- `Solipsistic Cosmology.md` – notes on cosmological implications in this
-  framework.
+  chapters, closing reflections, and references.
 - `math_cheatsheet.md` – quick reference of key equations.
 - `math_review.md` – notes on where the draft's mathematics needs more precision.
 
@@ -31,19 +27,25 @@ pandoc chapters/title.md \
        chapters/part1_intro.md \
        chapters/chapter*.md \
        chapters/part3_reflections.md \
+       chapters/references.md \
+       --metadata-file=metadata.yaml \
        -o solipsistic-physics.pdf
 ```
 
-For convenience, a helper script `build_book.zsh` is provided. Running it will
-produce a single file (PDF by default) by concatenating all chapters and notes.
-You may specify a different output filename to create an EPUB for e-readers such
-as Kindle. The script requires `zsh` and `pandoc` to be installed:
+Two helper scripts are provided:
+
+- `build_pdf.zsh` – gather all chapters and produce a single PDF (or other
+  pandoc-supported format when a different output filename is given).
+- `build_book.zsh` – call `build_pdf.zsh` and then upload the generated PDF to a
+  third-party book service.
+
+Both scripts require `zsh` and `pandoc` to be installed:
 
 ```bash
 # PDF (default)
-./build_book.zsh
+./build_pdf.zsh
 # or generate an EPUB
-./build_book.zsh solipsistic-physics.epub
+./build_pdf.zsh solipsistic-physics.epub
 ```
 
 ## Contributing

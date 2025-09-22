@@ -1,28 +1,17 @@
 #!/usr/bin/env zsh
-# Build Solipsistic Physics into a single file.
+# Build Solipsistic Physics and send the PDF to a book service.
 # Usage: ./build_book.zsh [output-file]
 
 set -e
 
-if ! command -v pandoc >/dev/null 2>&1; then
-  echo "Error: pandoc not found. Please install pandoc." >&2
-  exit 1
-fi
+script_dir=$(dirname "$0")
+pdf_output=${1:-solipsistic-physics.pdf}
 
-output=${1:-solipsistic-physics.pdf}
+# Build the PDF using the shared script
+"$script_dir/build_pdf.zsh" "$pdf_output"
 
-chapter_files=($(find chapters -maxdepth 1 -name 'chapter*.md' | sort -V))
+# Placeholder for publishing: send PDF to a third-party API if desired
+# Example:
+# curl -F "file=@$pdf_output" https://api.example.com/books
 
-files=(
-  chapters/title.md
-  chapters/preface.md
-  chapters/overview.md
-  chapters/part1_intro.md
-  ${chapter_files[@]}
-  chapters/part3_reflections.md
-  chapters/references.md
-)
-
-pandoc ${files[@]} --metadata-file=metadata.yaml -o "$output"
-
-echo "Created $output"
+echo "Generated $pdf_output; upload to the book service as needed."

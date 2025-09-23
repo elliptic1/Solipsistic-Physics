@@ -7,30 +7,39 @@
 
 set -e
 
+script_path=${(%):-%N}
+repo_root=${script_path:A:h}
+
 build_pdf() {
+  emulate -L zsh
+  setopt err_return pipe_fail extended_glob null_glob
+
   local output=${1:-solipsistic-physics.pdf}
 
   if ! command -v pandoc >/dev/null 2>&1; then
-    echo "Error: pandoc not found. Please install pandoc." >&2
+    print -u2 "Error: pandoc not found. Please install pandoc."
     return 1
   fi
 
-  local chapter_files=($(find chapters -maxdepth 1 -name 'chapter*.md' | sort -V))
+  local chapter_dir="$repo_root/chapters"
+  local metadata_file="$repo_root/metadata.yaml"
 
-  local files=(
-    chapters/title.md
-    chapters/preface.md
-    chapters/overview.md
-    chapters/part1_intro.md
-    ${chapter_files[@]}
-    chapters/part3_reflections.md
-    chapters/references.md
+  local -a chapter_files=("$chapter_dir"/chapter<->.md(NOn))
+
+  local -a files=(
+    "$chapter_dir/title.md"
+    "$chapter_dir/preface.md"
+    "$chapter_dir/overview.md"
+    "$chapter_dir/part1_intro.md"
+    "${chapter_files[@]}"
+    "$chapter_dir/part3_reflections.md"
+    "$chapter_dir/references.md"
   )
 
-  pandoc ${files[@]} --metadata-file=metadata.yaml -o "$output"
-  echo "Created $output"
+  pandoc "${files[@]}" --metadata-file="$metadata_file" -o "$output"
+  print "Created $output"
 }
 
-if [[ "${(%):-%N}" == "$0" ]]; then
+if [[ -z ${BUILD_PDF_SOURCING:-} ]]; then
   build_pdf "$@"
 fi

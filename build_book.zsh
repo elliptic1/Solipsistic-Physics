@@ -4,11 +4,16 @@
 
 set -e
 
-script_dir=$(dirname "$0")
+script_path=${(%):-%N}
+repo_root=${script_path:A:h}
+
+BUILD_PDF_SOURCING=1
+source "$repo_root/build_pdf.zsh"
+unset BUILD_PDF_SOURCING
+
 pdf_output=${1:-solipsistic-physics.pdf}
 
-# Build the PDF using the shared script
-"$script_dir/build_pdf.zsh" "$pdf_output"
+build_pdf "$pdf_output"
 
 # Placeholder for publishing: send PDF to a third-party API if desired
 # Example:

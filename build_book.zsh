@@ -19,10 +19,14 @@ files=(
   chapters/chapter{1..10}.md
   chapters/part3_reflections.md
   chapters/references.md
-  "Solopsistic Physics.txt"
-  "Solopsistic Cosmology.txt"
+  "Solipsistic Physics.md"
+  "Solipsistic Cosmology.md"
 )
 
-pandoc ${files[@]} --metadata-file=metadata.yaml -o "$output"
+pandoc \
+  --from=markdown+tex_math_dollars+tex_math_single_backslash \
+  --metadata-file=metadata.yaml \
+  ${files[@]} \
+  -o "$output"
 
 echo "Created $output"

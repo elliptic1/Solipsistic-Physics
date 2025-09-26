@@ -23,6 +23,9 @@ files=(
   "Solipsistic Cosmology.md"
 )
 
-pandoc ${files[@]} -o "$output"
+pandoc \
+  --from=markdown+tex_math_dollars+tex_math_single_backslash \
+  ${files[@]} \
+  -o "$output"
 
 echo "Created $output"

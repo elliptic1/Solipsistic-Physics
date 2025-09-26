@@ -1,0 +1,30 @@
+name: Build book
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc zsh texlive-latex-recommended texlive-fonts-recommended
+
+      - name: Build book with metadata pipeline
+        run: |
+          ./build_book.zsh solipsistic-physics-ci.pdf
+
+      - name: Build book PDF without metadata
+        run: |
+          ./build_pdf.zsh solipsistic-physics-ci-plain.pdf
+
+      - name: Verify artifacts created
+        run: |
+          test -f solipsistic-physics-ci.pdf
+          test -f solipsistic-physics-ci-plain.pdf

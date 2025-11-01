@@ -21,6 +21,24 @@ that the chapters can be easily converted to PDF or other publishing formats.
 - `math_cheatsheet.md` – quick reference of key equations.
 - `math_review.md` – notes on where the draft's mathematics needs more precision.
 
+## Prerequisites
+
+To generate PDFs or EPUBs you will need the following tooling available on
+your system:
+
+- [pandoc](https://pandoc.org/) for document conversion
+- A LaTeX distribution (for example, TeX Live) when building PDF outputs
+- `zsh` to execute the helper scripts bundled with the repository
+
+On Debian/Ubuntu systems these dependencies can be installed with:
+
+```bash
+sudo apt-get update
+sudo apt-get install pandoc texlive-full zsh
+```
+
+## Building the book
+
 The chapters can be converted to a single document using a tool such as
 [pandoc](https://pandoc.org/):
 
@@ -34,10 +52,13 @@ pandoc chapters/title.md \
        -o solipsistic-physics.pdf
 ```
 
-For convenience, a helper script `build_book.zsh` is provided. Running it will
-produce a single file (PDF by default) by concatenating all chapters and notes.
-You may specify a different output filename to create an EPUB for e-readers such
-as Kindle. The script requires `zsh` and `pandoc` to be installed:
+For convenience, helper scripts `build_book.zsh` and `build_pdf.zsh` are
+provided. Running `build_book.zsh` will produce a single file (PDF by default)
+by concatenating all chapters and notes, while `build_pdf.zsh` wraps the same
+process with defaults tailored for PDF output, including the metadata specified
+in `metadata.yaml`.  You may specify a different output filename to create an
+EPUB for e-readers such as Kindle. Both scripts require `zsh`, `pandoc`, and,
+for PDF targets, a LaTeX distribution to be installed:
 
 ```bash
 # PDF (default)
@@ -50,4 +71,8 @@ as Kindle. The script requires `zsh` and `pandoc` to be installed:
 
 This project is experimental and remains a work in progress.  If you wish to
 propose changes or additional content, please open an issue or submit a pull
-request describing your ideas.
+request describing your ideas. When contributing text, please keep the
+philosophical tone accessible while backing claims with references that can be
+typeset in Markdown/LaTeX.  For structural adjustments, update the appropriate
+chapter files under `chapters/` and, if needed, refresh the metadata in
+`metadata.yaml` so the build scripts continue to produce accurate front matter.

@@ -8,9 +8,11 @@
 - <a id="hartlehawking1983"></a>Hartle, James B., and Stephen W. Hawking. "Wave Function of the Universe." *Physical Review D* 28, no. 12 (1983): 2960–2975.
 - <a id="linde1982"></a>Linde, Andrei. "A New Inflationary Universe Scenario." *Physics Letters B* 108, no. 6 (1982): 389–393.
 - <a id="maldacena1998"></a>Maldacena, Juan. "The Large N Limit of Superconformal Field Theories and Supergravity." *Advances in Theoretical and Mathematical Physics* 2 (1998): 231–252.
+- <a id="almheiri2019"></a>Almheiri, Ahmed, Raghu Mahajan, Juan Maldacena, and Ying Zhao. "Islands in the Stream of Hawking Radiation." *Journal of High Energy Physics* 2020, no. 3 (2020): 149. arXiv:1906.08207.
 - <a id="tononi2004"></a>Tononi, Giulio. "An Information Integration Theory of Consciousness." *BMC Neuroscience* 5, no. 1 (2004): 42.
 - <a id="hawking1975"></a>Hawking, Stephen W. "Particle Creation by Black Holes." *Communications in Mathematical Physics* 43, no. 3 (1975): 199–220.
 - <a id="bekenstein1973"></a>Bekenstein, Jacob D. "Black Holes and Entropy." *Physical Review D* 7, no. 8 (1973): 2333–2346.
 - <a id="einstein1915"></a>Einstein, Albert. "The Field Equations of Gravitation." *Sitzungsberichte der Preussischen Akademie der Wissenschaften* (1915): 844–857.
 - <a id="carr2007"></a>Carr, Bernard, ed. *Universe or Multiverse?* Cambridge University Press, 2007.
 - <a id="hobson1977"></a>Hobson, J. Allan, and Robert W. McCarley. "The Brain as a Dream State Generator: An Activation-Synthesis Hypothesis of the Dream Process." *American Journal of Psychiatry* 134, no. 12 (1977): 1335–348.
+- <a id="zhao2025"></a>Zhao, Ying, Daniel Harlow, and Mykhaylo Usatyuk. "Observers as Boundaries in Closed Universes." Preprint (2025).

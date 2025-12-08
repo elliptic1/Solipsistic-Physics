@@ -10,26 +10,26 @@ All content is written in Markdown with LaTeX math notation (using `$...$` for i
 
 ## Build Commands
 
-Build the complete book as PDF (requires pandoc, zsh, and a LaTeX distribution):
+Build the complete book as PDF (requires pandoc and a LaTeX distribution):
 ```bash
-./build_book.zsh
+./build_book.sh
 ```
 
-Build with a different output format:
+Build with a different output filename:
 ```bash
-./build_book.zsh solipsistic-physics.epub
+./build_book.sh my-output.pdf
 ```
 
 Build PDF without metadata:
 ```bash
-./build_pdf.zsh
+./build_pdf.sh
 ```
 
 ### Dependencies
 
 On Debian/Ubuntu:
 ```bash
-sudo apt-get install pandoc texlive-full zsh
+sudo apt-get install pandoc texlive-xetex texlive-fonts-recommended
 ```
 
 ## Repository Structure

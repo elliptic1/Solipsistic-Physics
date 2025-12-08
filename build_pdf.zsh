@@ -17,10 +17,9 @@ files=(
   chapters/preface.md
   chapters/overview.md
   chapters/part1_intro.md
-  chapters/chapter{1..10}.md
+  chapters/chapter{1..9}.md
   chapters/part3_reflections.md
-  "Solipsistic Physics.md"
-  "Solipsistic Cosmology.md"
+  chapters/references.md
 )
 
 pandoc \

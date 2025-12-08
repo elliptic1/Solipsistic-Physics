@@ -42,24 +42,5 @@ One might also ask: could an advanced theory (say in quantum gravity or cosmolog
 
 In conclusion, representing solipsism within theoretical physics language has been an exercise in pushing the boundaries of who or what physics is about. We saw that by tweaking frameworks like quantum mechanics (with collapse by a special mind), general relativity (with an observer-centered metric), string theory (embedding mind in higher dimensions), we **can** construct a model that is mathematically elaborate and consistent with one consciousness being fundamental. It is a **fluid essay** of ideas – heavy on speculation, lighter on hard predictions – but it highlights intriguing intersections: information theory, observer-dependence, and idealist philosophy. Whether one takes it as a serious possibility or a fanciful extreme, it is a testament to the versatility of theoretical physics that we can even attempt to map such a profound philosophical position onto equations and principles. In the end, solipsistic physics might best be appreciated as a philosophical **mirror**: by considering a universe-of-one, we come to appreciate why we usually assume a universe-of-many, and what it would mean scientifically if that assumption is wrong or unnecessary. It stretches our imagination – and indeed, in a solipsist reality, that’s all there is in the first place.
 
-**Sources:**
-
-* Rovelli, Carlo. *Relational Quantum Mechanics.* Stanford Encyclopedia of Philosophy (2022). – Discusses observer-relative facts and notes RQM “may seem to imply perspectival solipsism” but yields consistent shared reality when interactions occur.
-
-* Wheeler, John A. *Interview and Writings on Participatory Anthropic Principle.* – Notably: “No phenomenon is a real phenomenon until it is an observed phenomenon.” and the idea that we participate in bringing about reality.
-
-* Linde, Andrei. Quoted in **Futurism** (2014) – “The universe and the observer exist as a pair... I cannot imagine a consistent theory that ignores consciousness.”.
-
-* Susskind et al. *Black Hole Complementarity.* – Introduced the need for single-observer descriptions when horizons are present; “we must restrict to a single, local point of view” to avoid paradox.
-
-* Bernard Carr, interview at Essentia Foundation (2023) – Suggests consciousness resides in higher dimensions of M-theory and spacetime might emerge from it, aligning physics with idealism.
-
-* Boltzmann Brain thought experiment – Highlights the absurd scenario of a single brain spontaneously existing with fake memories; used as a reductio argument in cosmology. (Our solipsistic model is somewhat analogous to a controlled Boltzmann Brain scenario where one brain’s experiences form all reality.)
-
-* Horgan, John. *“The Solipsism Problem”* (2023) – Critiques theories of consciousness as untestable since we cannot verify others’ inner experiences, labeling this the solipsism problem in science.
-
-
-
-
 [^ch7-wheeler]: See [Wheeler 1983](references.md#wheeler1983).
 [^ch7-rovelli]: See [Rovelli 1996](references.md#rovelli1996).

@@ -48,8 +48,22 @@ Causal structure might be reinterpreted as well. Normally, causality is an obser
 
 Perhaps a softer condition: the *Global structure* of spacetime might be such that the observer’s worldline is geodesically complete (extends indefinitely) while all other worldlines (representing “objects” or other people) are incomplete in the absence of the observer. For example, if the observer were removed, the metric could collapse or degenerate. This is reminiscent of how in general relativity certain solutions have closed timelike curves or incomplete geodesics unless a parameter is tuned. We might need to “fine-tune” the cosmos such that only with the observer present do things make sense.
 
-Mathematically, an **observer-centric metric** could be engineered to encode the notion of “here and now” vs “far and hypothetical.” But it’s clear that simply writing a different metric is not enough – one also has to embed this idea into the *dynamical laws* (e.g. how fields behave on this spacetime, how the metric is generated from sources, etc.). That leads us to consider what new fields or symmetry-breaking terms might be needed to single out a lone observer in the laws of physics.
+Mathematically, an **observer-centric metric** could be engineered to encode the notion of "here and now" vs "far and hypothetical." But it's clear that simply writing a different metric is not enough – one also has to embed this idea into the *dynamical laws* (e.g. how fields behave on this spacetime, how the metric is generated from sources, etc.). That leads us to consider what new fields or symmetry-breaking terms might be needed to single out a lone observer in the laws of physics.
 
-These ideas prepare us for the radical fine-tuning explored in the next chapter.
+### 2.4 The Moving Observer
+
+A natural question arises: what happens when the observer moves? If spacetime is centered on you, does the center shift as you walk across a room?
+
+The answer lies in distinguishing coordinates from invariants. The observer's worldline - their path through spacetime - is the invariant structure. Coordinates are just labels we attach to events. When you move, your worldline traces a different path through the coordinate system, but the worldline itself remains the fundamental object around which reality is organized.
+
+Think of it this way: in the navigation app analogy, when you turn a corner, the map rotates to keep you centered. The underlying geography has not changed; only the representation has adjusted to maintain you at the center. Similarly, a solipsistic spacetime does not "move" when the observer moves - the observer's worldline simply extends through different regions, and those regions become real as they enter the observer's experience.
+
+This means the "center" is not a point in space but a trajectory through spacetime. The observer's entire history - past, present, and future path - constitutes the axis around which reality is organized. Events that have never and will never intersect this worldline have a different ontological status than events that do.
+
+This perspective resolves what might seem like a paradox: if the universe is centered on me, how can I move through it? The answer is that you are not moving through a pre-existing universe; rather, the universe unfolds along your worldline, with your trajectory being the thread on which everything else is strung.
+
+### 2.5 Summary
+
+These ideas prepare us for the radical fine-tuning explored in the next chapter. We have sketched what an observer-centered geometry might look like - a spacetime with a privileged worldline, a horizon beyond which reality fades, and causal structure tied to the observer's experience. The mathematics remains suggestive rather than rigorous, but the conceptual picture is coherent: a universe that exists not as a stage on which observers appear, but as a structure woven around a single experiencing subject.
 
 [^ch2-einstein]: See [Einstein 1915](references.md#einstein1915).

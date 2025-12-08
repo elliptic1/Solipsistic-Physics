@@ -2,4 +2,10 @@
 title: "Solipsistic Physics: A Universe-of-One"
 author: "Todd B. Smith, PhD"
 lang: en
+documentclass: book
+classoption:
+  - oneside
+geometry: "paperwidth=6in, paperheight=9in, inner=0.875in, outer=0.625in, top=0.75in, bottom=0.875in"
+fontsize: 11pt
+linestretch: 1.15
 ---

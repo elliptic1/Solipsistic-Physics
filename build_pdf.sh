@@ -20,9 +20,17 @@ files=(
   chapters/chapter{1..9}.md
   chapters/part3_reflections.md
   chapters/references.md
+  chapters/glossary.md
+  chapters/appendix_math.md
+  chapters/further_reading.md
 )
 
 pandoc \
+  --pdf-engine=xelatex \
+  -V geometry:paperwidth=6in \
+  -V geometry:paperheight=9in \
+  -V geometry:margin=0.75in \
+  -V fontsize=11pt \
   --from=markdown+tex_math_dollars+tex_math_single_backslash \
   ${files[@]} \
   -o "$output"

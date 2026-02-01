@@ -1,0 +1,14 @@
+[debug] [2026-01-10T06:50:24.416Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-01-10T06:50:24.419Z] > authorizing via signed-in user (elliptic1@gmail.com)
+[debug] [2026-01-10T06:50:24.419Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-01-10T06:50:24.419Z] > authorizing via signed-in user (elliptic1@gmail.com)
+[debug] [2026-01-10T06:50:24.435Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-01-10T06:50:24.436Z] > authorizing via signed-in user (elliptic1@gmail.com)
+[debug] [2026-01-10T06:50:24.567Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-01-10T06:50:24.568Z] > authorizing via signed-in user (elliptic1@gmail.com)
+[debug] [2026-01-10T06:50:24.568Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-01-10T06:50:24.569Z] > authorizing via signed-in user (elliptic1@gmail.com)
+[debug] [2026-01-10T06:50:24.570Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-01-10T06:50:24.571Z] > authorizing via signed-in user (elliptic1@gmail.com)
+[debug] [2026-01-10T06:50:24.571Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2026-01-10T06:50:24.572Z] > authorizing via signed-in user (elliptic1@gmail.com)

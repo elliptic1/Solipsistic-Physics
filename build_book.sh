@@ -20,6 +20,7 @@ files=(
   chapters/chapter{1..9}.md
   chapters/part3_reflections.md
   chapters/references.md
+  chapters/about_author.md
 )
 
 pandoc \

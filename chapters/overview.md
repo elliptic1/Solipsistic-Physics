@@ -1,4 +1,4 @@
-## Overview
+# Overview
 
 The book is divided into three parts across nine chapters.
 

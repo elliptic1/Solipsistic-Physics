@@ -1,4 +1,4 @@
-## Preface
+# Preface
 
 *What if your mind were the only one that truly exists? Could the laws of physics be rewritten from that perspective?*
 

@@ -1,6 +1,4 @@
-## Part I – Foundations of Solipsistic Physics
-
-# Theoretical Modeling of Solipsism: Fine-Tuning M-Theory for a Universe-of-One
+# Part I – Foundations of Solipsistic Physics
 
 *Conceptual illustration of mind and cosmos entwined. In a solipsistic worldview, the universe is a projection of a single consciousness, challenging physics to accommodate an observer-defined reality.*
 

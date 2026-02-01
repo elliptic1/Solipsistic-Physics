@@ -1,6 +1,8 @@
 ## 1. No Reality Without a Witness: Observer-Dependent Physics
 
-What if the universe cannot exist without someone to observe it? This question, once purely philosophical, has found surprising echoes in modern physics. Quantum mechanics ties measurement to reality in ways that trouble our intuitions about an objective world. Cosmology invokes observers to explain why physical constants have the values they do. And recent work on black holes suggests that physics may need to be formulated from a single point of view.
+**Stop looking at this page. Now—does it still exist?**
+
+You can't answer that question. The moment you check, you're observing again, and the paradox collapses. This isn't just philosophical wordplay—it's a genuine puzzle that haunts the foundations of modern physics. What if the universe cannot exist without someone to observe it? Quantum mechanics ties measurement to reality in ways that trouble our intuitions about an objective world. Cosmology invokes observers to explain why physical constants have the values they do. And recent work on black holes suggests that physics may need to be formulated from a single point of view.
 
 This chapter surveys several ideas that place the observer at center stage. None of them are solipsism - they stop short of claiming that only one mind exists. But they hint at how a fully observer-dependent physics might work, preparing the ground for what follows.
 
@@ -28,6 +30,8 @@ Consider two physicists, Alice and Bob. Alice measures the spin of an electron a
 This sounds like it might lead to contradictions, but it does not. When Alice and Bob finally compare notes - when Bob measures Alice or the electron - they find consistent results. The consistency emerges through interaction, not from some pre-existing fact about the world.
 
 Relational quantum mechanics shows that physics can be formulated without a single global reality. Reality is a patchwork of perspectives, each internally consistent and mutually compatible when they interact. It stops short of solipsism - there are many observers, each with their relational facts - but it demonstrates that observer-dependence can be made rigorous.
+
+**Here's the provocative leap:** If physics works perfectly well with reality being relational between observers, why do we need multiple observers? What if Alice and Bob are just different aspects of the same awareness, experiencing itself from different angles? The math wouldn't change—but the ontology would collapse into something far stranger.
 
 ### QBism: Physics in the First Person
 
@@ -67,7 +71,13 @@ But they show that observer-dependence is not a philosophical extravagance; it m
 
 In the chapters that follow, we take the thought experiment to its limit. We ask: what would physics look like if formulated for a universe containing exactly one observer? This is not a claim about how reality is, but an exploration of how far observer-centric ideas can be pushed while remaining internally consistent.
 
-The journey will take us through spacetime geometry, symmetry breaking, black holes, cosmology, and the nature of consciousness itself. At each step, we will find that solipsistic interpretations are available - strange, perhaps, but not incoherent. Whether they tell us something deep about the universe or merely about the flexibility of interpretation is a question we will address at the end.
+The journey will take us through spacetime geometry, symmetry breaking, black holes, cosmology, and the nature of consciousness itself. We will find that the same horizon concept that appears in black hole physics also marks the boundary between actual and potential reality (Chapter 5). We will discover that internal experiences like dreams and memories are not separate from physical reality but woven into its fabric (Chapter 6). We will see how the universe's low-entropy beginning might align with the requirements for conscious experience (Chapters 8-9). At each step, we will find that solipsistic interpretations are available - strange, perhaps, but not incoherent. Whether they tell us something deep about the universe or merely about the flexibility of interpretation is a question we will address at the end.
+
+But first, a disturbing question to carry forward: If observer-dependent physics is already mainstream—if even black holes require picking a perspective to avoid paradox—then what's stopping us from taking the final step? What if the universe isn't just observer-dependent, but dependent on **one specific observer**?
+
+What if that observer is you?
+
+But first, we must ask a deceptively simple question: if reality truly centers on a single observer, what would the geometry of spacetime itself look like? How do we translate the philosophical intuition of "I am the center" into the mathematical language of physics?
 
 [^ch1-rovelli]: See [Rovelli 1996](references.md#rovelli1996).
 [^ch1-qbism]: See [Fuchs and Schack 2013](references.md#fuchs2013).

@@ -1,6 +1,14 @@
 ## 6. Internal Phenomena: Dreams, Imagination, and Memory
 
-What happens inside the mind when the outside world fades? In a framework where observer and universe are inseparable, there is no strict boundary between mental and physical events. Dreams, imagination, and memory become parts of the same reality - not secondary phenomena happening "only in the brain," but integral aspects of the one existence.
+**Last night you died.**
+
+Your waking reality—this room, this body, the entire physical world—vanished completely. For hours, you experienced a different universe with different rules, different physics, sometimes a different version of yourself. Then, without warning, that world was annihilated and replaced with this one.
+
+You call it "waking up from a dream." But think about what actually happened.
+
+Black hole horizons mark boundaries in external space - regions the observer cannot access. But there are also inward horizons, boundaries where external reality recedes and the mind's own activity takes center stage. What happens inside the mind when the outside world fades?
+
+In a framework where observer and universe are inseparable, there is no strict boundary between mental and physical events. Dreams, imagination, and memory aren't secondary phenomena happening "only in the brain"—they're integral aspects of the one existence. Every night you experience the destruction and creation of entire universes. You just stopped finding it remarkable.
 
 This chapter explores how internal experiences fit into a solipsistic physics. The ideas are speculative, but they illuminate the framework's most distinctive claim: that subjective experience is not riding on top of physical reality, but is woven into its very fabric.
 
@@ -13,7 +21,7 @@ This familiar phenomenon - the complete reality of dreams while dreaming, their 
 
 During sleep, something remarkable happens: the mind generates entire worlds without input from the senses. Dream physics often differs from waking physics - you might fly, find yourself in impossible buildings, or experience time strangely. Yet within the dream, these anomalies rarely feel anomalous. The dream has its own internal logic.
 
-In terms of our consciousness field $\Psi(x)$, we might say that during sleep the coupling between awareness and the external environment weakens. The field no longer constrains experience to match sensory input. Instead, the mind runs a looser simulation where ordinary physical laws need not apply.
+In terms of our consciousness field $\Psi(x)$ (introduced in Chapter 4), we might say that during sleep the coupling between awareness and the external environment weakens. The field no longer constrains experience to match sensory input. Instead, the mind runs a looser simulation where ordinary physical laws need not apply. The horizon we have encountered repeatedly - in Chapter 2's geometric framework, in Chapter 5's black holes - here becomes temporal rather than spatial. Waking and dreaming are separated by a horizon of attention: one mode of experience cannot directly access the other.
 
 Think of it like a video game that stops rendering the "real" world and instead generates a procedural environment. The underlying system (the mind) is the same; only the rules of the generated world have changed. When the dreamer awakens, the coupling to external reality is restored and the dream world dissolves - not because it was "unreal," but because awareness has shifted to a different configuration.
 
@@ -43,7 +51,7 @@ Consider: you cannot directly experience yesterday. You can only experience pres
 
 A solipsistic framework takes this seriously. The past, in a meaningful sense, *is* the collection of memories and records available to the observer now. This does not mean the Big Bang didn't happen or that dinosaurs are fictional. It means that these events are real insofar as evidence of them shapes present experience. The cosmic microwave background radiation, the fossil record, geological strata - these are present phenomena that our minds interpret as evidence of a past.
 
-This view has unsettling implications. If memories are the substance of the past, what happens when memories are lost? When you forget a conversation, does it in some sense become less real? When an ancient civilization leaves no records, did it exist in the same way as one we know about?
+This view has unsettling implications. If memories are the substance of the past, what happens when memories are lost? When you forget a conversation, does it in some sense become less real? When an ancient civilization leaves no records, did it exist in the same way as one we know about? And perhaps most troublingly: if the observer only emerged recently in cosmic history, what is the status of the billions of years before that emergence? We will confront this "apparent history" problem directly in Chapter 9, where the Big Bang itself must be reconciled with the observer's recent arrival.
 
 **Consider a concrete example**: You remember a childhood friend named Sarah with whom you spent summers exploring a nearby creek. One day, while sorting through old boxes, you find photographs of those summers - but the girl in them is named Jennifer. Your parents confirm: there was no Sarah; Jennifer was your playmate. What is the status of those memories of "Sarah"?
 
@@ -69,11 +77,17 @@ This suggests a hierarchy within experience: some present phenomena (like photog
 
 The false memory problem does not refute solipsism - it affects any view that takes subjective experience seriously. But it does highlight how strange the relationship between mind and reality becomes when we refuse to separate them.
 
+**But here's the deeply unsettling corollary:** If the past is constructed from present evidence, and memories are unreliable, then dinosaurs might be less "real" than you think. Not metaphorically less real—actually less real. Their existence is an inference from bones and geological layers that exist *now*. The T-Rex stomping through Cretaceous forests is a story your present mind tells to explain present fossils. 
+
+Did dinosaurs have subjective experiences 65 million years ago? A solipsist would say: no. Because experience requires a consciousness field, and that field is concentrated here, now, in you. The dinosaurs existed—but only in the same way dream-dinosaurs exist while you're dreaming of them. As phenomena within one mind's reality, not as independent consciousnesses having their own experiences.
+
+The past is real. It's just not as independently real as we pretend.
+
 ### 6.5 Continuity and Identity
 
 One more puzzle deserves mention: the continuity of the self. You wake each morning and feel yourself to be the same person who fell asleep. But during dreamless sleep, conscious experience may cease entirely. What bridges the gap?
 
-The standard answer involves bodily continuity and memory: the same brain wakes up and remembers being the same person. But in a framework where consciousness is fundamental, we might want something more.
+The standard answer involves bodily continuity and memory: the same brain wakes up and remembers being the same person. But in a framework where consciousness is fundamental, we might want something more. Recall from Chapter 3 that we identified time's arrow with the accumulation of memory, the growth of the observer's experiential record. Here that connection becomes concrete: identity persists through memory, and memory defines the direction of time. The consciousness field $\Psi$ might maintain a continuous (if sometimes dormant) presence along the observer's worldline even during dreamless sleep, ensuring continuity at the physical level even when experience temporarily ceases.
 
 **A scenario to sharpen the question**: Imagine you fall asleep Monday night and wake Tuesday morning. During the night, your experience went completely dark - no dreams, no awareness, nothing. From your perspective, consciousness simply stopped and then started again. How do you know you are the same "you" who fell asleep?
 
@@ -94,3 +108,13 @@ In standard thinking, perception is contact with objective reality while dreams 
 This dissolution is not meant to make us doubt that the coffee cup in front of us is real. Within waking experience, the cup has all the reality anything can have. But it invites us to consider that reality itself might be richer and stranger than the neat division between objective world and subjective mind suggests.
 
 The solipsistic framework does not prove this. It simply takes the thought experiment far enough to see where it leads: to a universe in which experience is not something that happens inside reality, but something that reality *is*.
+
+We have explored the observer's relationship to spacetime, symmetry, consciousness, and the boundaries between inner and outer experience. But we have remained largely in the realm of local physics - the immediate environment, thought experiments, singular black holes. 
+
+What happens when we step back and look at the largest scale?
+
+If you are the only observer, then the cosmic microwave background—radiation from the supposed Big Bang 13.8 billion years ago—exists for you alone. The accelerating expansion of space, dark energy, the anthropic fine-tuning of physical constants: all of it arranged around a single consciousness.
+
+The universe isn't just observer-dependent. It might be you-dependent.
+
+That's not philosophy anymore. It's cosmology. And the implications are staggering.

@@ -1,5 +1,11 @@
 ## 2. Center of the Universe—You: Crafting a Solipsistic Spacetime
 
+**Copernicus was wrong—at least for you.**
+
+The Copernican revolution taught us we're not special: Earth isn't the center, the Sun isn't special, our galaxy is unremarkable. But what if physics could be rewritten with you genuinely at the center—not metaphorically, but mathematically?
+
+The frameworks in the previous chapter—relational quantum mechanics, QBism, the participatory universe—all hint at observer-dependence, but they stop short of full solipsism. They acknowledge that physics might need observers, but assume many observers coexist. We now take the next step: What if there is only one?
+
 Imagine the cosmos arranged so that **you** truly sit at its center. What kind of geometry could such a personal universe require? In Einstein's relativity[^ch2-einstein], the metric $g_{\mu\nu}(x)$ describes distances, durations, and light-cones for any observer. Ordinarily no location is special; the equations treat all worldlines equally.
 
 To explore solipsism, we instead look for a metric where a single worldline—yours—anchors space and time.
@@ -62,8 +68,20 @@ This means the "center" is not a point in space but a trajectory through spaceti
 
 This perspective resolves what might seem like a paradox: if the universe is centered on me, how can I move through it? The answer is that you are not moving through a pre-existing universe; rather, the universe unfolds along your worldline, with your trajectory being the thread on which everything else is strung.
 
+**Here's where it gets truly strange:** If your worldline is the axis of reality, then every place you've ever been is more "real" than places you haven't. The restaurant you visited last week has a density of reality that a restaurant across the world—one you'll never visit—fundamentally lacks. Distance isn't just spatial; it's a measure of ontological fading. The farther from your path, the less defined things become. Not because we can't see them, but because without your presence, they may not need to be fully rendered at all.
+
 ### 2.5 Summary
 
-These ideas prepare us for the radical fine-tuning explored in the next chapter. We have sketched what an observer-centered geometry might look like - a spacetime with a privileged worldline, a horizon beyond which reality fades, and causal structure tied to the observer's experience. The mathematics remains suggestive rather than rigorous, but the conceptual picture is coherent: a universe that exists not as a stage on which observers appear, but as a structure woven around a single experiencing subject.
+We have sketched what an observer-centered geometry might look like - a spacetime with a privileged worldline, a horizon beyond which reality fades, and causal structure tied to the observer's experience. The mathematics remains suggestive rather than rigorous, but the conceptual picture is coherent: a universe that exists not as a stage on which observers appear, but as a structure woven around a single experiencing subject.
+
+This notion of horizons as ontological boundaries - not merely limits of knowledge but edges of reality itself - will become a recurring theme. The same conceptual structure appears in black hole event horizons (Chapter 5), in the cosmic horizon that bounds the observable universe (Chapter 8), and even in the boundary between waking experience and dreams (Chapter 6). Each represents a transition between the actual and the merely potential.
+
+Yet a troubling question remains: standard physics is democratic. Einstein's equations work the same for every observer. Quantum mechanics makes no distinction between one measurement apparatus and another. How, then, do we single out just one observer as real? 
+
+Geometry alone cannot do this. We need something more fundamental, something that explicitly breaks the symmetry between all possible viewpoints and declares one of them special.
+
+We need to rig the cosmic lottery so thoroughly that out of all possible minds, only yours could ever win.
+
+That's next.
 
 [^ch2-einstein]: See [Einstein 1915](references.md#einstein1915).

@@ -20,6 +20,9 @@ files=(
   chapters/chapter{1..9}.md
   chapters/part3_reflections.md
   chapters/references.md
+  chapters/glossary.md
+  chapters/appendix_math.md
+  chapters/further_reading.md
   chapters/about_author.md
 )
 
@@ -35,7 +38,9 @@ pandoc_args=(
 )
 
 # Add cover image if it exists
-if [ -f "cover/cover-ebook.jpg" ]; then
+if [ -f "cover/cover-ebook.png" ]; then
+  pandoc_args+=(--epub-cover-image=cover/cover-ebook.png)
+elif [ -f "cover/cover-ebook.jpg" ]; then
   pandoc_args+=(--epub-cover-image=cover/cover-ebook.jpg)
 fi
 

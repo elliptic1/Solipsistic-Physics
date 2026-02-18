@@ -1,8 +1,8 @@
 ## 1. No Reality Without a Witness: Observer-Dependent Physics
 
-**Stop looking at this page. Now—does it still exist?**
+**Imagine you blinked out of existence—completely, instantly, leaving no trace. Does this page still exist?**
 
-You can't answer that question. The moment you check, you're observing again, and the paradox collapses. This isn't just philosophical wordplay—it's a genuine puzzle that haunts the foundations of modern physics. What if the universe cannot exist without someone to observe it? Quantum mechanics ties measurement to reality in ways that trouble our intuitions about an objective world. Cosmology invokes observers to explain why physical constants have the values they do. And recent work on black holes suggests that physics may need to be formulated from a single point of view.
+You can't answer that question. Not because you'd need to check (observation isn't the issue), but because you wouldn't be there to ask it. The very concept of "existence" seems to require someone for whom things exist. This isn't just philosophical wordplay—it's a genuine puzzle that haunts the foundations of modern physics. What if the universe cannot exist without someone to observe it? Quantum mechanics ties measurement to reality in ways that trouble our intuitions about an objective world. Cosmology invokes observers to explain why physical constants have the values they do. And recent work on black holes suggests that physics may need to be formulated from a single point of view.
 
 This chapter surveys several ideas that place the observer at center stage. None of them are solipsism - they stop short of claiming that only one mind exists. But they hint at how a fully observer-dependent physics might work, preparing the ground for what follows.
 

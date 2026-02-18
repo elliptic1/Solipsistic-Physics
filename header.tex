@@ -1,0 +1,32 @@
+% Custom LaTeX header for Solipsistic Physics book
+
+% Make chapter headings larger (h2 in markdown becomes \section in LaTeX)
+\usepackage{titlesec}
+
+% Format \section (h2/chapters) with larger font and page break before
+\titleformat{\section}
+  {\clearpage\normalfont\LARGE\bfseries}  % clearpage forces new page
+  {\thesection}
+  {1em}
+  {}
+
+% Format \subsection (h3) - keep normal size
+\titleformat{\subsection}
+  {\normalfont\large\bfseries}
+  {\thesubsection}
+  {1em}
+  {}
+
+% Format \subsubsection (h4)
+\titleformat{\subsubsection}
+  {\normalfont\normalsize\bfseries}
+  {\thesubsubsection}
+  {1em}
+  {}
+
+% Also ensure parts (if any h1s) start on new pages with even larger font
+\titleformat{\part}
+  {\clearpage\centering\normalfont\Huge\bfseries}
+  {\thepart}
+  {1em}
+  {}

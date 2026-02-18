@@ -26,11 +26,12 @@ files=(
 )
 
 pandoc \
-  --pdf-engine=xelatex \
+  --pdf-engine=tectonic \
   -V geometry:paperwidth=6in \
   -V geometry:paperheight=9in \
   -V geometry:margin=0.75in \
   -V fontsize=11pt \
+  --include-in-header=header.tex \
   --from=markdown+tex_math_dollars+tex_math_single_backslash \
   ${files[@]} \
   -o "$output"

@@ -1,5 +1,7 @@
 ## 5. Black Holes and Horizons: A Universe-of-One Perspective
 
+![Observer facing a black hole horizon](images/black-hole-observer.png)
+
 **Does a black hole destroy information—or does it only seem to, because you can't be in two places at once?**
 
 We have explored how spacetime might center on one observer, how symmetries might be broken to single them out, and how consciousness itself might be treated as a fundamental field. These ideas remain abstract until we test them against specific phenomena. Black holes offer the perfect testing ground.

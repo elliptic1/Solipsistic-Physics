@@ -1,5 +1,7 @@
 ## 8. The Big Bang as the Birth of the Observer's Universe
 
+![The Big Bang as consciousness and cosmos emerging together](images/observer-big-bang.png)
+
 **Before you existed, did anything exist?**
 
 That's not a question about your birth date. It's a question about the nature of existence itself. 

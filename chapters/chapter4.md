@@ -1,5 +1,7 @@
 ## 4. Consciousness as a Fundamental Field
 
+![Consciousness field emanating from an observer](images/consciousness-field.png)
+
 **Gravity bends spacetime. Electromagnetism pushes charges. What if awareness does something too?**
 
 We have invoked a mysterious field $\Psi$ that tags the one true observer, distinguishing them from all the philosophical zombies around them. But what *is* this field? Is it merely a formal device, a marker we insert to make the mathematics work? Or could awareness itself be woven into the fabric of the cosmos as something physically real—a force as fundamental as gravity or electromagnetism?

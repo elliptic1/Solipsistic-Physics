@@ -1,6 +1,8 @@
 # Part I – Foundations of Solipsistic Physics
 
-*Conceptual illustration of mind and cosmos entwined. In a solipsistic worldview, the universe is a projection of a single consciousness, challenging physics to accommodate an observer-defined reality.*
+![Mind and cosmos entwined](images/mind-cosmos.png)
+
+*In a solipsistic worldview, the universe is a projection of a single consciousness, challenging physics to accommodate an observer-defined reality.*
 
 ## Introduction: From Philosophy to Physics
 

@@ -1,5 +1,7 @@
 ## 2. Center of the Universe—You: Crafting a Solipsistic Spacetime
 
+![Observer at the center of curved spacetime](images/observer-centered-spacetime.png)
+
 **Copernicus was wrong—at least for you.**
 
 The Copernican revolution taught us we're not special: Earth isn't the center, the Sun isn't special, our galaxy is unremarkable. But what if physics could be rewritten with you genuinely at the center—not metaphorically, but mathematically?

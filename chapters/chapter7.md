@@ -1,5 +1,7 @@
 ## 7. Cosmology in a Solipsistic Universe
 
+![Light from distant galaxies converging on the observer](images/cosmic-convergence.png)
+
 **Every photon from every distant galaxy traveled billions of years through empty space just to hit your retina.**
 
 Think about that for a moment. Light from the Andromeda galaxy, our nearest major neighbor, left that island of stars 2.5 million years ago—before humans existed—and crossed the void for one purpose: so you could see it. Every telescope ever pointed at the sky, every cosmic ray detector, every gravitational wave observatory—all of it exists to deliver information to one consciousness.
